@@ -1,0 +1,16 @@
+{
+  "name": "Lampas — Bible",
+  "short_name": "Lampas",
+  "description": "A reverent Bible reader with an on-device, non-generative concordance.",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8F3415",
+  "theme_color": "#8F3415",
+  "icons": [
+    { "src": "/assets/favicons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/assets/favicons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
