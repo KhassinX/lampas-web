@@ -5,12 +5,12 @@ permalink: /es/legal/privacy/
 lang: es
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Política de Privacidad de Lampas
 
-**Última actualización:** 2026-06-05
+**Última actualización:** 2026-06-09
 **Responsable:** KHASSINX LLC
 
 Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que hacés en la app se nos envía.** No tenemos servidores ni analítica.
@@ -37,6 +37,10 @@ La app es segura para todas las edades. Como no recolectamos ningún dato, tampo
 
 Si esta política cambia, actualizaremos esta página y la fecha de "Última actualización". Los cambios materiales se reflejarán en el listado de App Store.
 
+## Tus derechos
+
+Según dónde vivas, puedes tener derechos sobre tus datos personales — acceder a ellos, corregirlos, eliminarlos o llevártelos a otro lugar. Como Lampas no recolecta ningún dato personal, no hay nada que podamos consultar, corregir ni eliminar. Tus derechos y cómo ejercerlos se explican en el **[Centro de Derechos](https://khassinx.com/legal/your-rights/)** de KhassinX, que cubre la UE/EEE, el Reino Unido, España, California, otros estados de EE. UU. y el resto del mundo.
+
 ## Contacto
 
-Consultas sobre privacidad: **hello@khassinx.com**
+Consultas sobre privacidad: **[legal@khassinx.com](mailto:legal@khassinx.com)**
