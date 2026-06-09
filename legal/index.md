@@ -29,4 +29,4 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Scripture text
 
-The scripture text presented in Lampas comes from **public-domain editions**, shown verbatim with attribution per edition (for example, the Reina-Valera 1909 for Spanish, or editions derived from the Textus Receptus). The public-domain text itself is not owned by KhassinX. The Lampas app is **proprietary**.
+The scripture text presented in Lampas comes from **public-domain or CC0 editions**, shown verbatim with attribution per edition: the English is the Berean Standard Bible (released to the public domain under CC0, berean.bible), and the Spanish is the Reina-Valera 1909 (public domain). KhassinX makes no claim of ownership over these editions. The Lampas app is **proprietary**.

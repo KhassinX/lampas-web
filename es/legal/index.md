@@ -27,4 +27,4 @@ Documentos legales públicos de **Lampas**.
 
 ## El texto sagrado
 
-El texto sagrado que presenta Lampas proviene de **ediciones de dominio público**, mostrado tal cual con atribución por edición (por ejemplo, la Reina-Valera 1909 para el español, o ediciones derivadas del Textus Receptus). El texto de dominio público en sí no es propiedad de KhassinX. La app Lampas es **propietaria**.
+El texto sagrado que presenta Lampas proviene de **ediciones de dominio público o CC0**, mostrado tal cual con atribución por edición: el inglés es la Berean Standard Bible (liberada al dominio público bajo CC0, berean.bible), y el español es la Reina-Valera 1909 (dominio público). KhassinX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
