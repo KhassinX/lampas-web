@@ -5,7 +5,7 @@ permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Términos de uso
@@ -39,7 +39,7 @@ Lampas se ofrece **pro bono — gratis.** No se requiere ninguna compra, no hay 
 
 ## El texto sagrado
 
-El texto sagrado en Lampas proviene de **ediciones de dominio público**, presentado tal cual, con atribución por edición (por ejemplo, la Reina-Valera 1909 para el español, o ediciones derivadas del Textus Receptus). No reclamamos propiedad sobre el texto de dominio público en sí. La edición específica que se muestra se identifica dentro de la app.
+El texto sagrado en Lampas proviene de **ediciones de dominio público o CC0**, presentado tal cual, con atribución por edición: el inglés es la Berean Standard Bible (liberada al dominio público bajo CC0), y el español es la Reina-Valera 1909 (dominio público). No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
 
 Lampas presenta el canon de manera consciente de la tradición y no armoniza versiones divergentes ni reconcilia diferencias entre tradiciones. El tratamiento del nombre divino, el orden de los libros y otras cuestiones editoriales siguen a la edición tal como fue publicada.
 
@@ -76,4 +76,5 @@ Si cambiamos estos términos, la nueva versión reemplaza a la anterior en esta 
 ## Contacto
 
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Legal y copyright**: [legal@khassinx.com](mailto:legal@khassinx.com)
 - **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida

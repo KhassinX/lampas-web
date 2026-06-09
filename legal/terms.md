@@ -5,7 +5,7 @@ permalink: /legal/terms/
 lang: en
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-06-05
+updated: 2026-06-09
 redirect_from:
   - /terms/
 ---
@@ -41,7 +41,7 @@ Lampas is offered **pro bono — free of charge.** There is no purchase required
 
 ## The scripture text
 
-The scripture text in Lampas comes from **public-domain editions**, presented verbatim, with attribution per edition (for example, the Reina-Valera 1909 for Spanish, or editions derived from the Textus Receptus). We make no claim of ownership over the public-domain text itself. The specific edition shown is identified within the app.
+The scripture text in Lampas comes from **public-domain or CC0 editions**, presented verbatim, with attribution per edition: the English is the Berean Standard Bible (released to the public domain under CC0), and the Spanish is the Reina-Valera 1909 (public domain). We make no claim of ownership over these editions. The specific edition shown is identified within the app.
 
 Lampas presents the canon in a tradition-aware manner and does not harmonize divergent versions or reconcile differences between traditions. The handling of the divine name, the ordering of books, and other editorial matters follow the edition as published.
 
@@ -78,4 +78,5 @@ If we change these terms, the new version replaces the old at this URL. Material
 ## Contact
 
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Legal & copyright**: [legal@khassinx.com](mailto:legal@khassinx.com)
 - **Developer**: KHASSINX LLC, a Florida limited liability company
