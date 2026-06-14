@@ -20,7 +20,7 @@ By installing or using Lampas, you agree to these terms. If you do not agree, do
 
 ## The app
 
-Lampas is an iOS, iPadOS, macOS, and watchOS application for reading the Bible. It presents public-domain editions of the text — original and translation side by side — and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
+Lampas is an iOS, iPadOS, macOS, and watchOS application for reading the Bible. It presents public-domain editions of the text — two translations side by side — and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
 
 The app is distributed exclusively through the Apple App Store. Apple's standard end-user license agreement (the "Licensed Application End User License Agreement") also applies to your use of Lampas; in case of conflict between these terms and Apple's EULA, Apple's EULA prevails for matters within its scope.
 
