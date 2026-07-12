@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-09
+updated: 2026-07-11
 ---
 
 # Legal
@@ -30,3 +30,7 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 ## Scripture text
 
 The scripture text presented in Lampas comes from **public-domain or CC0 editions**, shown verbatim with attribution per edition: the English is the Berean Standard Bible (released to the public domain under CC0, berean.bible), and the Spanish is the Reina-Valera 1909 (public domain). KhassinX makes no claim of ownership over these editions. The Lampas app is **proprietary**.
+
+## Trademarks
+
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KhassinX and Lampas are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
