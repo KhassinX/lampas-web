@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-18
+updated: 2026-07-28
 ---
 
 # Legal
@@ -28,7 +28,17 @@ Documentos legales públicos de **Lampas**.
 
 ## El texto sagrado
 
-El texto sagrado que presenta Lampas proviene de **ediciones de dominio público o CC0**, mostrado tal cual con atribución por edición: el inglés es la Berean Standard Bible (liberada al dominio público bajo CC0, berean.bible), y el español es la Reina-Valera 1909 (dominio público). KhassinX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
+El texto sagrado que presenta Lampas se muestra tal cual, a partir de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, cada una con su atribución por edición, tanto en la app como aquí. KhassinX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
+
+- **Antiguo Testamento hebreo**: Tanach with Ta'amei Hamikra (dominio público, vía Sefaria.org).
+- **Nuevo Testamento griego**: Nestle 1904 (dominio público); digitalización de Diego R. dos Santos; morfología CC0, biblicalhumanities.org.
+- **Inglés**: Berean Standard Bible (CC0 / dominio público), berean.bible.
+- **Español**: Reina-Valera 1909 (dominio público).
+- **Español**: Palabra de Dios para ti — Copyright © 2020 Asociacion Biblica Latinoamericana. Fuente: [eBible.org/spapddpt](https://ebible.org/spapddpt/). Licenciado bajo [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Texto de los versículos reproducido verbatim; las notas al pie y los corchetes del texto crítico del editor no se muestran.
+- **Deuterocanónicos (inglés)**: World English Bible (British Edition) with Deuterocanon (dominio público).
+- **Deuterocanónicos (español)**: Santa Biblia Libre para el Mundo (dominio público; borrador en revisión).
+
+Distribuidor de descarga (inglés y español): bible.helloao.org.
 
 ## Marcas comerciales
 
