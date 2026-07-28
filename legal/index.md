@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-18
+updated: 2026-07-28
 ---
 
 # Legal
@@ -30,7 +30,17 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Scripture text
 
-The scripture text presented in Lampas comes from **public-domain or CC0 editions**, shown verbatim with attribution per edition: the English is the Berean Standard Bible (released to the public domain under CC0, berean.bible), and the Spanish is the Reina-Valera 1909 (public domain). KhassinX makes no claim of ownership over these editions. The Lampas app is **proprietary**.
+The scripture text presented in Lampas is shown verbatim from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — each attributed per edition, both in the app and here. KhassinX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
+
+- **Hebrew Old Testament**: Tanach with Ta'amei Hamikra (public domain, via Sefaria.org).
+- **Greek New Testament**: Nestle 1904 (public domain); digitization by Diego R. dos Santos; morphology CC0, biblicalhumanities.org.
+- **English**: Berean Standard Bible (CC0 / public domain), berean.bible.
+- **Spanish**: Reina-Valera 1909 (public domain).
+- **Spanish**: Palabra de Dios para ti — Copyright © 2020 Asociacion Biblica Latinoamericana. Source: [eBible.org/spapddpt](https://ebible.org/spapddpt/). Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Verse text reproduced verbatim; the publisher's footnotes and critical-text brackets are not shown.
+- **Deuterocanon (English)**: World English Bible (British Edition) with Deuterocanon (public domain).
+- **Deuterocanon (Spanish)**: Santa Biblia Libre para el Mundo (public domain; draft under review).
+
+Download distributor (English and Spanish): bible.helloao.org.
 
 ## Trademarks
 
