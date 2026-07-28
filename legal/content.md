@@ -5,12 +5,12 @@ permalink: /legal/content/
 lang: en
 canonical_en: /legal/content/
 canonical_es: /es/legal/content/
-updated: 2026-07-18
+updated: 2026-07-28
 ---
 
 # Content & Rights
 
-Lampas presents the Bible — its original-language text and translations — drawn from public-domain and CC0 editions and shown verbatim, with each edition attributed in the app and on our [Legal](/legal/) page. We take the rights of authors, translators, and publishers seriously — and we are always glad to welcome new, freely-licensed editions.
+Lampas presents the Bible — its original-language text and translations — drawn from freely licensed editions (public domain, CC0, or Creative Commons Attribution) and shown verbatim, with each edition attributed in the app and on our [Legal](/legal/) page. We take the rights of authors, translators, and publishers seriously — and we are always glad to welcome new, freely-licensed editions.
 
 ## Requesting removal or review of content {#removal}
 
