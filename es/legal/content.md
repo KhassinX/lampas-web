@@ -5,12 +5,12 @@ permalink: /es/legal/content/
 lang: es
 canonical_en: /legal/content/
 canonical_es: /es/legal/content/
-updated: 2026-07-18
+updated: 2026-07-28
 ---
 
 # Contenido y derechos
 
-Lampas presenta la Biblia —su texto en lengua original y sus traducciones— a partir de ediciones de dominio público y CC0, mostrada tal cual, con cada edición atribuida en la app y en nuestra página [Legal](/es/legal/). Nos tomamos en serio los derechos de autores, traductores y editores, y siempre nos alegra sumar nuevas ediciones de licencia libre.
+Lampas presenta la Biblia —su texto en lengua original y sus traducciones— a partir de ediciones de licencia libre —dominio público, CC0 o Creative Commons Atribución—, mostrada tal cual, con cada edición atribuida en la app y en nuestra página [Legal](/es/legal/). Nos tomamos en serio los derechos de autores, traductores y editores, y siempre nos alegra sumar nuevas ediciones de licencia libre.
 
 ## Solicitar el retiro o la revisión de contenido {#removal}
 
