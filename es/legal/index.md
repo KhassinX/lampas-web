@@ -28,7 +28,7 @@ Documentos legales públicos de **Lampas**.
 
 ## El texto sagrado
 
-El texto sagrado que presenta Lampas se muestra tal cual, a partir de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, cada una con su atribución por edición, tanto en la app como aquí. KhassinX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
+El texto sagrado que presenta Lampas se muestra tal cual, a partir de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, cada una con su atribución por edición, tanto en la app como aquí. KHASSINX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
 
 - **Antiguo Testamento hebreo**: Tanach with Ta'amei Hamikra (dominio público, vía Sefaria.org).
 - **Nuevo Testamento griego**: Nestle 1904 (dominio público); digitalización de Diego R. dos Santos; morfología CC0, biblicalhumanities.org.
@@ -42,4 +42,4 @@ Distribuidor de descarga (inglés y español): bible.helloao.org.
 
 ## Marcas comerciales
 
-Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Lampas son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KHASSINX y Lampas son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.

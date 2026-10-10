@@ -14,7 +14,7 @@ redirect_from:
 
 **Effective date: 2026-06-05**
 
-These are the terms for using **Lampas**, a Bible reader app for Apple platforms, operated and published by **KHASSINX LLC, a Florida limited liability company** ("we", "us"), under the brand KhassinX.
+These are the terms for using **Lampas**, a Bible reader app for Apple platforms, operated and published by **KHASSINX LLC, a Florida limited liability company** ("we", "us"), under the brand KHASSINX.
 
 By installing or using Lampas, you agree to these terms. If you do not agree, do not use the app.
 
