@@ -18,7 +18,7 @@ Al instalar o usar Lampas, aceptas estos términos. Si no estás de acuerdo, no 
 
 ## La app
 
-Lampas es una aplicación para iOS, iPadOS, macOS y watchOS para leer la Biblia. Presenta ediciones de dominio público del texto —dos traducciones lado a lado— e incluye una concordancia on-device, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
+Lampas es una aplicación para iOS, iPadOS, macOS y watchOS para leer la Biblia. Presenta ediciones de dominio público del texto —dos traducciones lado a lado— e incluye una concordancia en el dispositivo, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
 
 La app se distribuye exclusivamente a través de la App Store. El acuerdo estándar de licencia de Apple para usuario final (el "Licensed Application End User License Agreement") también aplica al uso de Lampas; en caso de conflicto entre estos términos y el EULA de Apple, prevalece el EULA de Apple en lo que esté dentro de su alcance.
 
@@ -43,13 +43,13 @@ El texto sagrado en Lampas proviene de **ediciones de dominio público o CC0**, 
 
 Lampas presenta el canon de manera consciente de la tradición y no armoniza versiones divergentes ni reconcilia diferencias entre tradiciones. El tratamiento del nombre divino, el orden de los libros y otras cuestiones editoriales siguen a la edición tal como fue publicada.
 
-## Concordancia on-device y precisión
+## Concordancia en el dispositivo y precisión
 
 La concordancia de Lampas usa búsqueda semántica en el dispositivo para mostrar pasajes relacionados con tu consulta. Ordena por relevancia; no produce interpretación, doctrina ni texto generado. El orden de relevancia puede ser imperfecto, y los pasajes que muestra son un punto de partida para tu propia lectura y estudio, no una respuesta autoritativa. **Sigues siendo responsable de tu propia lectura e interpretación del texto.**
 
 ## Disponibilidad del servicio
 
-Lampas es una app on-device. No se requiere conexión a un servidor para la funcionalidad core. El sitio web `lampas.khassinx.com` puede no estar disponible ocasionalmente por mantenimiento u otras razones; esto no afecta a la app.
+Lampas es una app que funciona en el dispositivo. No se requiere conexión a un servidor para las funciones principales. El sitio web `lampas.khassinx.com` puede no estar disponible ocasionalmente por mantenimiento u otras razones; esto no afecta a la app.
 
 ## Descargos
 
