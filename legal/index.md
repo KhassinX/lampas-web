@@ -30,7 +30,7 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Scripture text
 
-The scripture text presented in Lampas is shown verbatim from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — each attributed per edition, both in the app and here. KhassinX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
+The scripture text presented in Lampas is shown verbatim from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — each attributed per edition, both in the app and here. KHASSINX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
 
 - **Hebrew Old Testament**: Tanach with Ta'amei Hamikra (public domain, via Sefaria.org).
 - **Greek New Testament**: Nestle 1904 (public domain); digitization by Diego R. dos Santos; morphology CC0, biblicalhumanities.org.
@@ -44,4 +44,4 @@ Download distributor (English and Spanish): bible.helloao.org.
 
 ## Trademarks
 
-Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KhassinX and Lampas are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KHASSINX and Lampas are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.

@@ -12,7 +12,7 @@ updated: 2026-07-11
 
 **Fecha de vigencia: 2026-06-05**
 
-Estos son los términos para usar **Lampas**, una app lectora de la Biblia para plataformas Apple, operada y publicada por **KHASSINX LLC, una sociedad de responsabilidad limitada de Florida** ("nosotros"), bajo la marca KhassinX.
+Estos son los términos para usar **Lampas**, una app lectora de la Biblia para plataformas Apple, operada y publicada por **KHASSINX LLC, una sociedad de responsabilidad limitada de Florida** ("nosotros"), bajo la marca KHASSINX.
 
 Al instalar o usar Lampas, aceptas estos términos. Si no estás de acuerdo, no uses la app.
 
