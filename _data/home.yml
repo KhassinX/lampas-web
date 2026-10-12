@@ -33,7 +33,7 @@ en:
     - { k: "A concordance that never interprets", v: "Ask in your own words. On-device machine learning ranks passages by meaning, then shows you the verse verbatim. The app does not write, paraphrase, summarize or interpret." }
     - { k: "Reading modes", v: "Paper, sepia, light, high contrast, dark and warm night, or match the device appearance. On iPhone and iPad, the reading text follows Dynamic Type." }
     - { k: "VoiceOver", v: "Reads the Hebrew and Greek text in its own language, automatically." }
-    - { k: "Inside the app", v: "The text and the search index ship with the app." }
+    - { k: "Inside the app", v: "The scripture text comes bundled in the app. The search indexes are built on your device the first time you search; what is saved holds verse references and relevance vectors, never scripture text." }
   faq_h: "Frequently asked questions"
   faq:
     - q: "Is Lampas free?"
@@ -79,7 +79,7 @@ es:
     - { k: "Una concordancia que nunca interpreta", v: "Pregunta con tus palabras. El aprendizaje automático en el dispositivo ordena los pasajes por significado y te muestra el versículo tal cual. La app no escribe, parafrasea, resume ni interpreta." }
     - { k: "Modos de lectura", v: "Papel, sepia, claro, alto contraste, oscuro y noche cálida, o seguir la apariencia del sistema. En iPhone y iPad, el texto de lectura respeta Dynamic Type." }
     - { k: "VoiceOver", v: "Lee el texto hebreo y griego en su propio idioma, automáticamente." }
-    - { k: "Dentro de la app", v: "El texto y el índice de búsqueda vienen con la app." }
+    - { k: "Dentro de la app", v: "El texto sagrado viene incluido en la app. Los índices de búsqueda se construyen en tu dispositivo la primera vez que buscas; lo que se guarda contiene referencias de versículos y vectores de relevancia, nunca texto sagrado." }
   faq_h: "Preguntas frecuentes"
   faq:
     - q: "¿Lampas es gratis?"
