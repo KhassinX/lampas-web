@@ -1,6 +1,6 @@
 # Portada. Fuentes: la ficha de tienda de Lampas (ScriptureSuite, Marketing/ASC/Lampas/copy, f221f3b),
 # legal/index.md y legal/privacy.md de esta web, y Lampas.xcodeproj (iPhone, iPad y Mac; iOS y macOS 27.0).
-# Traducciones y originales: LampasReaderScreen.swift (translations, originals) en ScriptureSuite fe08172.
+# Traducciones y originales: LampasReaderScreen.swift (translations, originals, credits) en ScriptureSuite d330b56; revisado por ScriptureSuite el 2026-10-11.
 # Gratis y sin compra: decisión de Chief Designer, 2026-10-09 22:06:36 EDT (CHANGELOG de ScriptureSuite).
 en:
   h1: "The Bible, by lamplight."
@@ -28,7 +28,7 @@ en:
   inside_h: "What’s inside"
   inside:
     - { k: "Your canon", v: "Protestant (66 books), Catholic (73) or Orthodox (77). The deuterocanonical books appear only when you choose that canon; canons are never mixed." }
-    - { k: "Original languages", v: "The Hebrew Masoretic Text beside books 1 to 39. Beside books 40 to 66, the Greek New Testament of your choice: Nestle 1904 (public domain) or the King James Textus Receptus (KJTR), Alan Bunning’s 2014 reconstruction of the Greek behind the King James Version (Creative Commons Attribution 4.0)." }
+    - { k: "Original languages", v: "The Hebrew Masoretic Text beside books 1 to 39. Beside books 40 to 66, the Greek New Testament of your choice: Nestle 1904 (CC0) or the King James Textus Receptus (KJTR), Alan Bunning’s 2014 reconstruction of the Greek behind the King James Version (Creative Commons Attribution 4.0)." }
     - { k: "Eight translations", v: "In seven languages, your choice, never mixed. English: the Berean Standard Bible. Spanish: the historic Reina-Valera 1909 or the modern Palabra de Dios para ti (2020). Also Portuguese, German, Italian, Chinese and Russian." }
     - { k: "A concordance that never interprets", v: "Ask in your own words. On-device machine learning ranks passages by meaning, then shows you the verse verbatim. The app does not write, paraphrase, summarize or interpret." }
     - { k: "Reading modes", v: "Paper, sepia, light, high contrast, dark and warm night, or match the device appearance. On iPhone and iPad, the reading text follows Dynamic Type." }
@@ -43,7 +43,7 @@ en:
     - q: "Which canon does it follow?"
       a: "The one you choose. The default is the historic Protestant canon of 66 books; the Catholic (+7) and Orthodox (+4) deuterocanonical books are included and appear only when you select that canon."
     - q: "Which editions does it use?"
-      a: "Freely licensed editions only. English: the Berean Standard Bible (CC0). Spanish: the Reina-Valera 1909 (public domain) and Palabra de Dios para ti (2020, Creative Commons Attribution 4.0). Portuguese, German, Italian, Chinese and Russian: public-domain editions; the Portuguese one is a draft under review. Greek: Nestle 1904 (public domain) or the KJTR (Creative Commons Attribution 4.0). The deuterocanonical books use the World English Bible, British Edition, and Santa Biblia Libre para el Mundo. The full attributions are on the Legal page of this site."
+      a: "Freely licensed editions only. English: the Berean Standard Bible (CC0). Spanish: the Reina-Valera 1909 (public domain) and Palabra de Dios para ti (2020, Creative Commons Attribution 4.0). Portuguese, German, Italian, Chinese and Russian: public-domain editions; the Portuguese one is a draft under review. Greek: Nestle 1904 (CC0) or the KJTR (Creative Commons Attribution 4.0). The deuterocanonical books use the World English Bible, British Edition, and Santa Biblia Libre para el Mundo, a draft under review. The full attributions are on the Legal page of this site."
     - q: "Where are my bookmarks and notes?"
       a: "On your device, and synced through your own iCloud if you are signed in. We never have access to them. Scripture text itself is never synced: every device already carries it."
     - q: "Which devices does it run on?"
@@ -74,7 +74,7 @@ es:
   inside_h: "Lo que incluye"
   inside:
     - { k: "Tu canon", v: "Protestante (66 libros), católico (73) u ortodoxo (77). Los libros deuterocanónicos aparecen solo cuando eliges ese canon; los cánones nunca se mezclan." }
-    - { k: "Idiomas originales", v: "El Texto Masorético hebreo junto a los libros 1 a 39. Junto a los libros 40 a 66, el Nuevo Testamento griego que elijas: Nestle 1904 (dominio público) o el King James Textus Receptus (KJTR), reconstrucción del griego detrás de la King James Version hecha por Alan Bunning en 2014 (Creative Commons Atribución 4.0)." }
+    - { k: "Idiomas originales", v: "El Texto Masorético hebreo junto a los libros 1 a 39. Junto a los libros 40 a 66, el Nuevo Testamento griego que elijas: Nestle 1904 (CC0) o el King James Textus Receptus (KJTR), reconstrucción del griego detrás de la King James Version hecha por Alan Bunning en 2014 (Creative Commons Atribución 4.0)." }
     - { k: "Ocho traducciones", v: "En siete idiomas, a tu elección y sin mezclarlas. En español, la histórica Reina-Valera 1909 o la moderna Palabra de Dios para ti (2020). En inglés, la Berean Standard Bible. También en portugués, alemán, italiano, chino y ruso." }
     - { k: "Una concordancia que nunca interpreta", v: "Pregunta con tus palabras. El aprendizaje automático en el dispositivo ordena los pasajes por significado y te muestra el versículo tal cual. La app no escribe, parafrasea, resume ni interpreta." }
     - { k: "Modos de lectura", v: "Papel, sepia, claro, alto contraste, oscuro y noche cálida, o seguir la apariencia del sistema. En iPhone y iPad, el texto de lectura respeta Dynamic Type." }
@@ -89,7 +89,7 @@ es:
     - q: "¿Qué canon sigue?"
       a: "El que tú elijas. Por defecto, el canon protestante histórico de 66 libros; los libros deuterocanónicos católicos (+7) y ortodoxos (+4) están incluidos y aparecen solo cuando eliges ese canon."
     - q: "¿Qué ediciones usa?"
-      a: "Solo ediciones de licencia libre. En español: la Reina-Valera 1909 (dominio público) y Palabra de Dios para ti (2020, Creative Commons Atribución 4.0). En inglés: la Berean Standard Bible (CC0). En portugués, alemán, italiano, chino y ruso: ediciones de dominio público; la portuguesa es un borrador en revisión. En griego: Nestle 1904 (dominio público) o el KJTR (Creative Commons Atribución 4.0). Los libros deuterocanónicos usan la Santa Biblia Libre para el Mundo y la World English Bible, British Edition. Las atribuciones completas están en la página Legal de este sitio."
+      a: "Solo ediciones de licencia libre. En español: la Reina-Valera 1909 (dominio público) y Palabra de Dios para ti (2020, Creative Commons Atribución 4.0). En inglés: la Berean Standard Bible (CC0). En portugués, alemán, italiano, chino y ruso: ediciones de dominio público; la portuguesa es un borrador en revisión. En griego: Nestle 1904 (CC0) o el KJTR (Creative Commons Atribución 4.0). Los libros deuterocanónicos usan la Santa Biblia Libre para el Mundo, un borrador en revisión, y la World English Bible, British Edition. Las atribuciones completas están en la página Legal de este sitio."
     - q: "¿Dónde quedan mis marcadores y notas?"
       a: "En tu dispositivo, y sincronizados por tu propio iCloud si tienes la sesión iniciada. Nunca tenemos acceso a ellos. El texto bíblico en sí nunca se sincroniza: cada dispositivo ya lo lleva."
     - q: "¿En qué dispositivos funciona?"
