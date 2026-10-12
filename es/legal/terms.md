@@ -5,7 +5,7 @@ permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-07-11
+updated: 2026-10-11
 ---
 
 # Términos de uso
@@ -18,7 +18,7 @@ Al instalar o usar Lampas, aceptas estos términos. Si no estás de acuerdo, no 
 
 ## La app
 
-Lampas es una aplicación para iOS y iPadOS para leer la Biblia. Presenta ediciones de dominio público del texto —dos traducciones lado a lado— e incluye una concordancia en el dispositivo, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
+Lampas es una aplicación para iOS y iPadOS para leer la Biblia. Presenta ediciones de licencia libre del texto —dominio público, CC0 o Creative Commons Atribución— e incluye una concordancia en el dispositivo, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
 
 La app se distribuye exclusivamente a través de la App Store. El acuerdo estándar de licencia de Apple para usuario final (el "Licensed Application End User License Agreement") también aplica al uso de Lampas; en caso de conflicto entre estos términos y el EULA de Apple, prevalece el EULA de Apple en lo que esté dentro de su alcance.
 
@@ -35,11 +35,11 @@ No puedes:
 
 ## Precios
 
-Lampas se ofrece **pro bono — gratis.** No se requiere ninguna compra, no hay suscripción y no hay publicidad. Puede haber un tip jar opcional (compra dentro de la app) por si quieres apoyar el trabajo; no desbloquea ninguna función y es completamente voluntario. Cualquier compra de ese tipo la procesa Apple; nunca vemos tu información de pago.
+Lampas se ofrece **pro bono — gratis.** No se requiere ninguna compra, no hay suscripción y no hay publicidad.
 
 ## El texto sagrado
 
-El texto sagrado en Lampas proviene de **ediciones de dominio público o CC0**, presentado tal cual, con atribución por edición: el inglés es la Berean Standard Bible (liberada al dominio público bajo CC0), y el español es la Reina-Valera 1909 (dominio público). No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
+El texto sagrado en Lampas proviene de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, presentado tal cual, con atribución por edición; la lista completa está en nuestra página [Legal](/es/legal/). No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
 
 Lampas presenta el canon de manera consciente de la tradición y no armoniza versiones divergentes ni reconcilia diferencias entre tradiciones. El tratamiento del nombre divino, el orden de los libros y otras cuestiones editoriales siguen a la edición tal como fue publicada.
 

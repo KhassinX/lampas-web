@@ -5,7 +5,7 @@ permalink: /legal/terms/
 lang: en
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-07-11
+updated: 2026-10-11
 redirect_from:
   - /terms/
 ---
@@ -20,7 +20,7 @@ By installing or using Lampas, you agree to these terms. If you do not agree, do
 
 ## The app
 
-Lampas is an iOS and iPadOS application for reading the Bible. It presents public-domain editions of the text — two translations side by side — and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
+Lampas is an iOS and iPadOS application for reading the Bible. It presents freely licensed editions of the text (public domain, CC0, or Creative Commons Attribution) and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
 
 The app is distributed exclusively through the App Store. Apple's standard end-user license agreement (the "Licensed Application End User License Agreement") also applies to your use of Lampas; in case of conflict between these terms and Apple's EULA, Apple's EULA prevails for matters within its scope.
 
@@ -37,11 +37,11 @@ You may not:
 
 ## Pricing
 
-Lampas is offered **pro bono — free of charge.** There is no purchase required, no subscription, and no advertising. An optional tip jar (in-app purchase) may be available if you wish to support the work; it unlocks no features and is entirely voluntary. Any such purchases are processed by Apple; we never see your payment information.
+Lampas is offered **pro bono — free of charge.** There is no purchase required, no subscription, and no advertising.
 
 ## The scripture text
 
-The scripture text in Lampas comes from **public-domain or CC0 editions**, presented verbatim, with attribution per edition: the English is the Berean Standard Bible (released to the public domain under CC0), and the Spanish is the Reina-Valera 1909 (public domain). We make no claim of ownership over these editions. The specific edition shown is identified within the app.
+The scripture text in Lampas comes from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — presented verbatim, with attribution per edition; the full list is on our [Legal](/legal/) page. We make no claim of ownership over these editions. The specific edition shown is identified within the app.
 
 Lampas presents the canon in a tradition-aware manner and does not harmonize divergent versions or reconcile differences between traditions. The handling of the divine name, the ordering of books, and other editorial matters follow the edition as published.
 

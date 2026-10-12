@@ -5,7 +5,7 @@ permalink: /legal/privacy/
 lang: en
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-07-11
+updated: 2026-10-11
 redirect_from:
   - /privacy/
 ---
@@ -14,7 +14,7 @@ redirect_from:
 
 **Provided by:** KHASSINX LLC
 
-Lampas is a reading app for sacred scripture (the Bible). It is built privacy-first: **we do not collect any of your data, and nothing you do in the app is ever sent to us.** We have no servers and no analytics.
+Lampas is a reading app for sacred scripture (the Bible). It is built privacy-first: **we do not collect any of your data, and nothing you read, search, or write in the app is ever sent to us.** We have no servers and no analytics.
 
 ## Data we collect
 
@@ -22,7 +22,7 @@ Lampas is a reading app for sacred scripture (the Bible). It is built privacy-fi
 
 ## How the app works on your device
 
-- **Reading and search happen entirely on your device.** The scripture text and the search index are bundled in the app (public-domain editions). Your questions, searches, reading position, bookmarks, and notes never leave your device to reach us or any third party.
+- **Reading and search happen entirely on your device.** The scripture text and the search index are bundled in the app (freely licensed editions). Your questions, searches, reading position, bookmarks, and notes never leave your device to reach us or any third party.
 - **On-device semantic search** uses Apple's `NLContextualEmbedding`, a model that runs locally on your device. The first time it is used, the operating system may download the model from Apple's servers (Apple → your device). This transfer contains no personal data and no information about what you read or search.
 - **No third-party AI.** The app never sends your queries, your reading, or the scripture text to any third-party AI provider or external service.
 
@@ -30,13 +30,9 @@ Lampas is a reading app for sacred scripture (the Bible). It is built privacy-fi
 
 Your own data — reading position, bookmarks, highlights, and notes — is stored on your device and syncs across your devices through **your own iCloud account** (Apple's iCloud Key-Value Store and a private CloudKit database), under Apple's privacy terms. We never have access to it: it lives in your personal iCloud, not on any server of ours. Scripture text itself is never synced — every device already carries the full text. If you are not signed in to iCloud, everything still works and stays local to your device. To remove synced data, delete bookmarks, highlights, or notes in the app (deletions propagate to your other devices), or manage iCloud storage in Settings.
 
-### Tips
-
-The apps are free. An optional tip jar lets you support the project through Apple's in-app purchase system. Payment is processed entirely by Apple; we receive no personal information about you.
-
 ### Diagnostics
 
-Using Apple's standard on-device diagnostics (MetricKit), the app can receive anonymous performance reports from the system, such as launch time or crash diagnostics. These reports are stored only on your device and are never transmitted to us.
+Using Apple's standard on-device diagnostics (MetricKit), the app can receive anonymous performance reports from the system, such as launch time or crash diagnostics. These reports are stored only on your device and are never transmitted to us. Separately, if you choose in your device settings to share analytics with app developers, Apple collects crash reports and usage statistics for the app and makes them available to us. They are technical reports about the app, not about what you read, search, or write.
 
 ## Children
 

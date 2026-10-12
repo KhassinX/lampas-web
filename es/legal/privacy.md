@@ -5,14 +5,14 @@ permalink: /es/legal/privacy/
 lang: es
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-07-11
+updated: 2026-10-11
 ---
 
 # Política de Privacidad de Lampas
 
 **Responsable:** KHASSINX LLC
 
-Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que haces en la app se nos envía.** No tenemos servidores ni analítica.
+Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que lees, buscas o escribes en la app se nos envía.** No tenemos servidores ni analítica.
 
 ## Datos que recolectamos
 
@@ -20,7 +20,7 @@ Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-f
 
 ## Cómo funciona la app en tu dispositivo
 
-- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de dominio público). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
+- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de licencia libre). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
 - **La búsqueda semántica en el dispositivo** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
 - **Sin IA de terceros.** La app nunca envía tus consultas, tu lectura ni el texto sagrado a ningún proveedor de IA externo ni a ningún servicio de terceros.
 
@@ -28,13 +28,9 @@ Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-f
 
 Tus propios datos — posición de lectura, marcadores, resaltados y notas — se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza — cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes.
 
-### Propinas
-
-Las apps son gratuitas. Un frasco de propinas opcional te permite apoyar el proyecto a través del sistema de compras integradas de Apple. El pago lo procesa Apple por completo; no recibimos ninguna información personal tuya.
-
 ### Diagnósticos
 
-Mediante los diagnósticos estándar de Apple en el dispositivo (MetricKit), la app puede recibir del sistema reportes anónimos de rendimiento, como tiempo de arranque o diagnósticos de fallos. Esos reportes se guardan solo en tu dispositivo y nunca se nos transmiten.
+Mediante los diagnósticos estándar de Apple en el dispositivo (MetricKit), la app puede recibir del sistema reportes anónimos de rendimiento, como tiempo de arranque o diagnósticos de fallos. Esos reportes se guardan solo en tu dispositivo y nunca se nos transmiten. Aparte, si en los ajustes de tu dispositivo eliges compartir análisis con los desarrolladores de apps, Apple recopila informes de fallos y estadísticas de uso de la app y nos los pone a disposición. Son informes técnicos sobre la app, no sobre lo que lees, buscas o escribes.
 
 ## Niños
 
