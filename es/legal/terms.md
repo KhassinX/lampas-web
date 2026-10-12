@@ -39,7 +39,7 @@ Lampas se ofrece **pro bono — gratis.** No se requiere ninguna compra, no hay 
 
 ## El texto sagrado
 
-El texto sagrado en Lampas proviene de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, presentado tal cual, con atribución por edición; la lista completa está en nuestra página [Legal](/es/legal/). No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
+El texto sagrado en Lampas proviene de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, presentado tal cual, con atribución por edición. No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
 
 Lampas presenta el canon de manera consciente de la tradición y no armoniza versiones divergentes ni reconcilia diferencias entre tradiciones. El tratamiento del nombre divino, el orden de los libros y otras cuestiones editoriales siguen a la edición tal como fue publicada.
 

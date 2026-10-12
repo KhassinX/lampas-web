@@ -41,7 +41,7 @@ Lampas is offered **pro bono — free of charge.** There is no purchase required
 
 ## The scripture text
 
-The scripture text in Lampas comes from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — presented verbatim, with attribution per edition; the full list is on our [Legal](/legal/) page. We make no claim of ownership over these editions. The specific edition shown is identified within the app.
+The scripture text in Lampas comes from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — presented verbatim, with attribution per edition. We make no claim of ownership over these editions. The specific edition shown is identified within the app.
 
 Lampas presents the canon in a tradition-aware manner and does not harmonize divergent versions or reconcile differences between traditions. The handling of the divine name, the ordering of books, and other editorial matters follow the edition as published.
 
