@@ -1,14 +1,13 @@
 ---
 layout: prose
 title: Legal
+description: "Legal documents and scripture attributions for Lampas, by KHASSINX LLC."
 permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
 updated: 2026-10-11
 ---
-
-# Legal
 
 Public legal documents for **Lampas**.
 
@@ -55,4 +54,4 @@ Download distributor for the translations, except Palabra de Dios para ti: bible
 
 ## Trademarks
 
-Apple, iPhone, iPad, App Store, iCloud, CloudKit, and iPadOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KHASSINX and Lampas are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
+Apple, iPhone, iPad, Mac, App Store, iCloud, CloudKit, iPadOS, and macOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KHASSINX and Lampas are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.

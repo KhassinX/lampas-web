@@ -1,6 +1,7 @@
 ---
 layout: prose
 title: Legal
+description: "Documentos legales y atribuciones del texto bíblico de Lampas, de KHASSINX LLC."
 permalink: /es/legal/
 lang: es
 canonical_en: /legal/
@@ -8,11 +9,9 @@ canonical_es: /es/legal/
 updated: 2026-10-11
 ---
 
-# Legal
-
 Documentos legales públicos de **Lampas**.
 
-- **[Política de Privacidad](/es/legal/privacy/)**: qué datos maneja Lampas y cómo (spoiler: ninguno nuestro)
+- **[Política de privacidad](/es/legal/privacy/)**: qué datos maneja Lampas y cómo (en resumen: no recolectamos ninguno)
 - **[Términos de uso](/es/legal/terms/)**: términos para usar esta app gratuita y pro bono
 - **[Seguridad y reportes responsables](/es/security/)**: cómo reportar vulnerabilidades
 - **[Contenido y derechos](/es/legal/content/)**: solicitar el retiro o la revisión de contenido, o aportar una traducción
@@ -53,4 +52,4 @@ Distribuidor de descarga de las traducciones, salvo Palabra de Dios para ti: bib
 
 ## Marcas comerciales
 
-Apple, iPhone, iPad, App Store, iCloud, CloudKit y iPadOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KHASSINX y Lampas son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
+Apple, iPhone, iPad, Mac, App Store, iCloud, CloudKit, iPadOS y macOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KHASSINX y Lampas son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.

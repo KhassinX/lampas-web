@@ -1,14 +1,13 @@
 ---
 layout: prose
-title: Lampas — Términos de uso
+title: Términos de uso
+description: "Los términos para usar Lampas, el lector de la Biblia gratuito de KHASSINX LLC para iPhone, iPad y Mac."
 permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
 updated: 2026-10-11
 ---
-
-# Términos de uso
 
 **Fecha de vigencia: 2026-06-05**
 
@@ -18,9 +17,9 @@ Al instalar o usar Lampas, aceptas estos términos. Si no estás de acuerdo, no 
 
 ## La app
 
-Lampas es una aplicación para iOS y iPadOS para leer la Biblia. Presenta ediciones de licencia libre del texto —dominio público, CC0 o Creative Commons Atribución— e incluye una concordancia en el dispositivo, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
+Lampas es una aplicación para iOS, iPadOS y macOS para leer la Biblia. Presenta ediciones de licencia libre del texto (dominio público, CC0 o Creative Commons Atribución) e incluye una concordancia en el dispositivo, no generativa, que muestra pasajes relacionados. **Lampas no interpreta, parafrasea, resume ni genera escritura.** Ordena y muestra el texto tal cual; no redacta comentario.
 
-La app se distribuye exclusivamente a través de la App Store. El acuerdo estándar de licencia de Apple para usuario final (el "Licensed Application End User License Agreement") también aplica al uso de Lampas; en caso de conflicto entre estos términos y el EULA de Apple, prevalece el EULA de Apple en lo que esté dentro de su alcance.
+La app se distribuye exclusivamente a través del App Store. El acuerdo estándar de licencia de Apple para usuario final (el "Licensed Application End User License Agreement") también aplica al uso de Lampas; en caso de conflicto entre estos términos y el EULA de Apple, prevalece el EULA de Apple en lo que esté dentro de su alcance.
 
 ## Licencia
 
@@ -35,11 +34,11 @@ No puedes:
 
 ## Precios
 
-Lampas se ofrece **pro bono — gratis.** No se requiere ninguna compra, no hay suscripción y no hay publicidad.
+Lampas se ofrece **pro bono: gratis.** No se requiere ninguna compra, no hay suscripción y no hay publicidad.
 
 ## El texto sagrado
 
-El texto sagrado en Lampas proviene de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, presentado tal cual, con atribución por edición. No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
+El texto sagrado en Lampas proviene de **ediciones de licencia libre** (dominio público, CC0 o Creative Commons Atribución), presentado tal cual, con atribución por edición. No reclamamos propiedad sobre estas ediciones. La edición específica que se muestra se identifica dentro de la app.
 
 Lampas presenta el canon de manera consciente de la tradición y no armoniza versiones divergentes ni reconcilia diferencias entre tradiciones. El tratamiento del nombre divino, el orden de los libros y otras cuestiones editoriales siguen a la edición tal como fue publicada.
 
@@ -75,7 +74,7 @@ Si cambiamos estos términos, la nueva versión reemplaza a la anterior en esta 
 
 ## Disponibilidad e instalaciones no oficiales
 
-Lampas se distribuye exclusivamente a través del App Store, y solo en los territorios donde decidimos ofrecerla. Si obtienes, instalas o usas la app por cualquier otro canal — incluyendo sideloading, dispositivos con jailbreak, o la evasión de la seguridad o de las restricciones regionales del App Store — ese uso no está autorizado ni tiene soporte: no somos responsables de él, no ofrecemos garantía ni soporte para él, y cumplir las leyes que te aplican es responsabilidad exclusivamente tuya.
+Lampas se distribuye exclusivamente a través del App Store, y solo en los territorios donde decidimos ofrecerla. Si obtienes, instalas o usas la app por cualquier otro canal (incluyendo sideloading, dispositivos con jailbreak, o la evasión de la seguridad o de las restricciones regionales del App Store), ese uso no está autorizado ni tiene soporte: no somos responsables de él, no ofrecemos garantía ni soporte para él, y cumplir las leyes que te aplican es responsabilidad exclusivamente tuya.
 
 ## Indemnización
 
@@ -87,7 +86,7 @@ Antes de presentar cualquier reclamo, aceptas escribir a [`legal@khassinx.com`](
 
 ## Disposiciones generales
 
-Si una parte de estos términos resulta inexigible, el resto sigue vigente. Que no hagamos valer una disposición no es una renuncia a ella. No puedes ceder estos términos; nosotros podemos cederlos como parte de una reorganización o transferencia del servicio. No somos responsables por demoras o fallas causadas por eventos fuera de nuestro control razonable. Estos términos se publican en Español e inglés; si las versiones alguna vez entran en conflicto, prevalece la versión en inglés.
+Si una parte de estos términos resulta inexigible, el resto sigue vigente. Que no hagamos valer una disposición no es una renuncia a ella. No puedes ceder estos términos; nosotros podemos cederlos como parte de una reorganización o transferencia del servicio. No somos responsables por demoras o fallas causadas por eventos fuera de nuestro control razonable. Estos términos se publican en español e inglés; si las versiones alguna vez entran en conflicto, prevalece la versión en inglés.
 
 ## Contacto
 
