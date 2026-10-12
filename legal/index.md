@@ -30,7 +30,7 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Scripture text
 
-The scripture text presented in Lampas is shown verbatim from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — each attributed per edition, both in the app and here. KHASSINX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
+The scripture text presented in Lampas is shown verbatim from **freely licensed editions** (public domain, CC0, or Creative Commons Attribution), each attributed per edition, both in the app and here. KHASSINX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
 
 ### Required attribution
 
@@ -51,7 +51,7 @@ The scripture text presented in Lampas is shown verbatim from **freely licensed 
 - **Deuterocanon (English)**: World English Bible (British Edition) with Deuterocanon (Public Domain)
 - **Deuterocanon (Spanish)**: Santa Biblia Libre para el Mundo (Public Domain; draft under review)
 
-Download distributor (English and Spanish): bible.helloao.org.
+Download distributor for the translations, except Palabra de Dios para ti: bible.helloao.org.
 
 ## Trademarks
 
