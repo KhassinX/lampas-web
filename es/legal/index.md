@@ -28,7 +28,7 @@ Documentos legales públicos de **Lampas**.
 
 ## El texto sagrado
 
-El texto sagrado que presenta Lampas se muestra tal cual, a partir de **ediciones de licencia libre** —dominio público, CC0 o Creative Commons Atribución—, cada una con su atribución por edición, tanto en la app como aquí. KHASSINX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
+El texto sagrado que presenta Lampas se muestra tal cual, a partir de **ediciones de licencia libre** (dominio público, CC0 o Creative Commons Atribución), cada una con su atribución por edición, tanto en la app como aquí. KHASSINX no reclama propiedad sobre estas ediciones. La app Lampas es **propietaria**.
 
 ### Atribución obligatoria
 
@@ -49,7 +49,7 @@ El texto sagrado que presenta Lampas se muestra tal cual, a partir de **edicione
 - **Deuterocanónicos (inglés)**: World English Bible (British Edition) with Deuterocanon (Dominio público)
 - **Deuterocanónicos (español)**: Santa Biblia Libre para el Mundo (Dominio público; borrador en revisión)
 
-Distribuidor de descarga (inglés y español): bible.helloao.org.
+Distribuidor de descarga de las traducciones, salvo Palabra de Dios para ti: bible.helloao.org.
 
 ## Marcas comerciales
 
