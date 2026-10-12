@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-28
+updated: 2026-10-11
 ---
 
 # Legal
@@ -32,13 +32,24 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 The scripture text presented in Lampas is shown verbatim from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — each attributed per edition, both in the app and here. KHASSINX makes no claim of ownership over these editions. The Lampas app itself is **proprietary**.
 
-- **Hebrew Old Testament**: Tanach with Ta'amei Hamikra (public domain, via Sefaria.org).
-- **Greek New Testament**: Nestle 1904 (public domain); digitization by Diego R. dos Santos; morphology CC0, biblicalhumanities.org.
-- **English**: Berean Standard Bible (CC0 / public domain), berean.bible.
-- **Spanish**: Reina-Valera 1909 (public domain).
-- **Spanish**: Palabra de Dios para ti — Copyright © 2020 Asociacion Biblica Latinoamericana. Source: [eBible.org/spapddpt](https://ebible.org/spapddpt/). Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Verse text reproduced verbatim; the publisher's footnotes and critical-text brackets are not shown.
-- **Deuterocanon (English)**: World English Bible (British Edition) with Deuterocanon (public domain).
-- **Deuterocanon (Spanish)**: Santa Biblia Libre para el Mundo (public domain; draft under review).
+### Required attribution
+
+- **Greek New Testament**: [King James Textus Receptus (KJTR)](https://github.com/Center-for-New-Testament-Restoration/KJTR). Copyright © Alan Bunning. Source: Center for New Testament Restoration (CNTR). Licensed under Creative Commons Attribution 4.0. Verse text reproduced verbatim; the publisher's footnotes and critical-text brackets are not shown. [View License](https://creativecommons.org/licenses/by/4.0/)
+- **Spanish translation**: [Palabra de Dios para ti (2020)](https://ebible.org/spapddpt/). Copyright © Asociacion Biblica Latinoamericana. Source: eBible.org/spapddpt. Licensed under Creative Commons Attribution 4.0. Verse text reproduced verbatim; the publisher's footnotes and critical-text brackets are not shown. [View License](https://creativecommons.org/licenses/by/4.0/)
+
+### Sources
+
+- **Hebrew Old Testament**: Tanach with Ta'amei Hamikra (Sefaria.org)
+- **Greek New Testament**: Nestle 1904 (digitization Diego Santos; CC0)
+- **English translation**: Berean Standard Bible (CC0, berean.bible)
+- **Spanish translation**: Reina-Valera 1909
+- **Portuguese translation**: Bíblia Portuguesa Mundial (Public Domain; draft under review)
+- **German translation**: Lutherbibel 1912 (Public Domain)
+- **Italian translation**: Riveduta Bibbia 1927 (Public Domain)
+- **Chinese translation**: Chinese Union Version, 1919 (Public Domain)
+- **Russian translation**: Синодальный перевод (Holy Synod, 1876; Public Domain)
+- **Deuterocanon (English)**: World English Bible (British Edition) with Deuterocanon (Public Domain)
+- **Deuterocanon (Spanish)**: Santa Biblia Libre para el Mundo (Public Domain; draft under review)
 
 Download distributor (English and Spanish): bible.helloao.org.
 
