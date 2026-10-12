@@ -1,0 +1,96 @@
+# Portada. Fuentes: la ficha de tienda de Lampas (ScriptureSuite, Marketing/ASC/Lampas/copy, f221f3b),
+# legal/index.md y legal/privacy.md de esta web, y Lampas.xcodeproj (iPhone, iPad y Mac; iOS y macOS 27.0).
+# Traducciones y originales: LampasReaderScreen.swift (translations, originals, credits) en ScriptureSuite d330b56; revisado por ScriptureSuite el 2026-10-11.
+# Gratis y sin compra: decisión de Chief Designer, 2026-10-09 22:06:36 EDT (CHANGELOG de ScriptureSuite).
+en:
+  h1: "The Bible, by lamplight."
+  lead: "A faithful, private reader for the Christian Bible, on iPhone, iPad and Mac. It takes you to the verse and never interprets it."
+  availability: "Coming to the App Store · Free · For iPhone, iPad and Mac"
+  facts_label: "Privacy at a glance"
+  facts:
+    - "Data Not Collected"
+    - "No account"
+    - "On‑device search"
+  aside:
+    - { k: "66 · 73 · 77", v: "Books in the Protestant, Catholic and Orthodox canons. You choose yours." }
+    - { k: "Hebrew · Greek", v: "The original text beside the translation, for books 1 to 66" }
+    - { k: "Verbatim", v: "Every verse in its published wording, with its edition credited by name" }
+  privacy_h: "Privacy"
+  manifest:
+    - { k: "Data collected", v: "None. App Store label: “Data Not Collected”" }
+    - { k: "Account", v: "None" }
+    - { k: "Where your data lives", v: "On your device, synced through your own iCloud" }
+    - { k: "Tracking", v: "None. No analytics and no ads" }
+    - { k: "Search", v: "A model from Apple that runs on your device and generates no text. Your questions never leave your device" }
+    - { k: "Price", v: "Free, with no purchase" }
+  policy: "Privacy Policy"
+  reach: "What does reach us: the emails you send us and, only if you choose to share analytics with app developers, the crash reports and usage statistics Apple collects for the app. Never what you read, search, or write."
+  inside_h: "What’s inside"
+  inside:
+    - { k: "Your canon", v: "Protestant (66 books), Catholic (73) or Orthodox (77). The deuterocanonical books appear only when you choose that canon; canons are never mixed." }
+    - { k: "Original languages", v: "The Hebrew Masoretic Text beside books 1 to 39. Beside books 40 to 66, the Greek New Testament of your choice: Nestle 1904 (CC0) or the King James Textus Receptus (KJTR), Alan Bunning’s 2014 reconstruction of the Greek behind the King James Version (Creative Commons Attribution 4.0)." }
+    - { k: "Eight translations", v: "In seven languages, your choice, never mixed. English: the Berean Standard Bible. Spanish: the historic Reina-Valera 1909 or the modern Palabra de Dios para ti (2020). Also Portuguese, German, Italian, Chinese and Russian." }
+    - { k: "A concordance that never interprets", v: "Ask in your own words. On-device machine learning ranks passages by meaning, then shows you the verse verbatim. The app does not write, paraphrase, summarize or interpret." }
+    - { k: "Reading modes", v: "Paper, sepia, light, high contrast, dark and warm night, or match the device appearance. On iPhone and iPad, the reading text follows Dynamic Type." }
+    - { k: "VoiceOver", v: "Reads the Hebrew and Greek text in its own language, automatically." }
+    - { k: "Inside the app", v: "The scripture text comes bundled in the app. The search indexes are built on your device the first time you search; what is saved holds verse references and relevance vectors, never scripture text." }
+  faq_h: "Frequently asked questions"
+  faq:
+    - q: "Is Lampas free?"
+      a: "Yes. The app and all scripture are free, with no purchase, no ads and no tracking. Lampas is offered pro bono."
+    - q: "Does Lampas interpret the Bible?"
+      a: "No. It is not a study Bible, a commentary or a sermon generator. Its concordance ranks passages by meaning and shows you each verse in its published wording; the meaning stays in the text."
+    - q: "Which canon does it follow?"
+      a: "The one you choose. The default is the historic Protestant canon of 66 books; the Catholic (+7) and Orthodox (+4) deuterocanonical books are included and appear only when you select that canon."
+    - q: "Which editions does it use?"
+      a: "Freely licensed editions only. English: the Berean Standard Bible (CC0). Spanish: the Reina-Valera 1909 (public domain) and Palabra de Dios para ti (2020, Creative Commons Attribution 4.0). Portuguese, German, Italian, Chinese and Russian: public-domain editions; the Portuguese one is a draft under review. Greek: Nestle 1904 (CC0) or the KJTR (Creative Commons Attribution 4.0). The deuterocanonical books use the World English Bible, British Edition, and Santa Biblia Libre para el Mundo, a draft under review. The full attributions are on the Legal page of this site."
+    - q: "Where are my bookmarks and notes?"
+      a: "On your device, and synced through your own iCloud if you are signed in. We never have access to them. Scripture text itself is never synced: every device already carries it."
+    - q: "Which devices does it run on?"
+      a: "iPhone, iPad and Mac, in English and Spanish."
+es:
+  h1: "La Biblia, a la luz de la lámpara."
+  lead: "Un lector fiel y privado de la Biblia cristiana, para iPhone, iPad y Mac. Te lleva al versículo y nunca lo interpreta."
+  availability: "Pronto en el App Store · Gratis · Para iPhone, iPad y Mac"
+  facts_label: "Privacidad de un vistazo"
+  facts:
+    - '<span lang="en">Data Not Collected</span>'
+    - "Sin cuenta"
+    - "Búsqueda en el dispositivo"
+  aside:
+    - { k: "66 · 73 · 77", v: "Libros de los cánones protestante, católico y ortodoxo. Tú eliges el tuyo." }
+    - { k: "Hebreo · griego", v: "El texto original junto a la traducción, en los libros 1 a 66" }
+    - { k: "Tal cual", v: "Cada versículo en su redacción publicada, con su edición acreditada por nombre" }
+  privacy_h: "Privacidad"
+  manifest:
+    - { k: "Datos recopilados", v: "Ninguno. Etiqueta del App Store: «<span lang=\"en\">Data Not Collected</span>»" }
+    - { k: "Cuenta", v: "Ninguna" }
+    - { k: "Dónde viven tus datos", v: "En tu dispositivo, sincronizados por tu propio iCloud" }
+    - { k: "Rastreo", v: "Ninguno. Sin analítica y sin anuncios" }
+    - { k: "Búsqueda", v: "Un modelo de Apple que corre en tu dispositivo y no genera texto. Tus preguntas nunca salen de tu dispositivo" }
+    - { k: "Precio", v: "Gratis, sin compras" }
+  policy: "Política de privacidad"
+  reach: "Lo que sí nos llega: los correos que nos envías y, solo si eliges compartir análisis con los desarrolladores de apps, los informes de fallos y estadísticas de uso que Apple recopila de la app. Nunca lo que lees, buscas o escribes."
+  inside_h: "Lo que incluye"
+  inside:
+    - { k: "Tu canon", v: "Protestante (66 libros), católico (73) u ortodoxo (77). Los libros deuterocanónicos aparecen solo cuando eliges ese canon; los cánones nunca se mezclan." }
+    - { k: "Idiomas originales", v: "El Texto Masorético hebreo junto a los libros 1 a 39. Junto a los libros 40 a 66, el Nuevo Testamento griego que elijas: Nestle 1904 (CC0) o el King James Textus Receptus (KJTR), reconstrucción del griego detrás de la King James Version hecha por Alan Bunning en 2014 (Creative Commons Atribución 4.0)." }
+    - { k: "Ocho traducciones", v: "En siete idiomas, a tu elección y sin mezclarlas. En español, la histórica Reina-Valera 1909 o la moderna Palabra de Dios para ti (2020). En inglés, la Berean Standard Bible. También en portugués, alemán, italiano, chino y ruso." }
+    - { k: "Una concordancia que nunca interpreta", v: "Pregunta con tus palabras. El aprendizaje automático en el dispositivo ordena los pasajes por significado y te muestra el versículo tal cual. La app no escribe, parafrasea, resume ni interpreta." }
+    - { k: "Modos de lectura", v: "Papel, sepia, claro, alto contraste, oscuro y noche cálida, o seguir la apariencia del sistema. En iPhone y iPad, el texto de lectura respeta Dynamic Type." }
+    - { k: "VoiceOver", v: "Lee el texto hebreo y griego en su propio idioma, automáticamente." }
+    - { k: "Dentro de la app", v: "El texto sagrado viene incluido en la app. Los índices de búsqueda se construyen en tu dispositivo la primera vez que buscas; lo que se guarda contiene referencias de versículos y vectores de relevancia, nunca texto sagrado." }
+  faq_h: "Preguntas frecuentes"
+  faq:
+    - q: "¿Lampas es gratis?"
+      a: "Sí. La app y toda la escritura son gratis, sin compras, sin anuncios y sin rastreo. Lampas se ofrece pro bono."
+    - q: "¿Lampas interpreta la Biblia?"
+      a: "No. No es una Biblia de estudio, ni un comentario, ni un generador de sermones. Su concordancia ordena los pasajes por significado y te muestra cada versículo en su redacción publicada; el sentido queda en el texto."
+    - q: "¿Qué canon sigue?"
+      a: "El que tú elijas. Por defecto, el canon protestante histórico de 66 libros; los libros deuterocanónicos católicos (+7) y ortodoxos (+4) están incluidos y aparecen solo cuando eliges ese canon."
+    - q: "¿Qué ediciones usa?"
+      a: "Solo ediciones de licencia libre. En español: la Reina-Valera 1909 (dominio público) y Palabra de Dios para ti (2020, Creative Commons Atribución 4.0). En inglés: la Berean Standard Bible (CC0). En portugués, alemán, italiano, chino y ruso: ediciones de dominio público; la portuguesa es un borrador en revisión. En griego: Nestle 1904 (CC0) o el KJTR (Creative Commons Atribución 4.0). Los libros deuterocanónicos usan la Santa Biblia Libre para el Mundo, un borrador en revisión, y la World English Bible, British Edition. Las atribuciones completas están en la página Legal de este sitio."
+    - q: "¿Dónde quedan mis marcadores y notas?"
+      a: "En tu dispositivo, y sincronizados por tu propio iCloud si tienes la sesión iniciada. Nunca tenemos acceso a ellos. El texto bíblico en sí nunca se sincroniza: cada dispositivo ya lo lleva."
+    - q: "¿En qué dispositivos funciona?"
+      a: "En iPhone, iPad y Mac, en español e inglés."

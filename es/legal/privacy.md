@@ -1,6 +1,8 @@
 ---
 layout: prose
-title: Lampas — Política de Privacidad
+title: Política de privacidad
+description: "Lampas no recolecta nada: sin cuenta, sin analítica, sin rastreo. Qué guarda la app, dónde vive y cómo borrarlo."
+h1: "Política de privacidad: Lampas"
 permalink: /es/legal/privacy/
 lang: es
 canonical_en: /legal/privacy/
@@ -8,11 +10,9 @@ canonical_es: /es/legal/privacy/
 updated: 2026-10-11
 ---
 
-# Política de Privacidad de Lampas
-
 **Responsable:** KHASSINX LLC
 
-Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que lees, buscas o escribes en la app se nos envía.** No tenemos servidores ni analítica.
+Lampas es una app para leer escritura sagrada (la Biblia). Está hecha con la privacidad como prioridad: **no recolectamos ninguno de tus datos, y nada de lo que lees, buscas o escribes en la app se nos envía.** No tenemos servidores ni analítica.
 
 ## Datos que recolectamos
 
@@ -20,13 +20,13 @@ Lampas es una app para leer escritura sagrada (la Biblia). Está hecha privacy-f
 
 ## Cómo funciona la app en tu dispositivo
 
-- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de licencia libre). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
+- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado viene incluido en la app (ediciones de licencia libre). Los índices de búsqueda se construyen en tu dispositivo la primera vez que buscas; lo que se guarda contiene referencias de versículos y vectores de relevancia, nunca texto sagrado. Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
 - **La búsqueda semántica en el dispositivo** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
 - **Sin IA de terceros.** La app nunca envía tus consultas, tu lectura ni el texto sagrado a ningún proveedor de IA externo ni a ningún servicio de terceros.
 
 ## Tus datos e iCloud
 
-Tus propios datos — posición de lectura, marcadores, resaltados y notas — se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza — cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes.
+Tus propios datos (posición de lectura, marcadores, resaltados y notas) se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza: cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes.
 
 ### Diagnósticos
 
@@ -42,15 +42,15 @@ Si esta política cambia, actualizaremos esta página y la fecha de "Última act
 
 ## Tus derechos
 
-Según dónde vivas, puedes tener derechos sobre tus datos personales — acceder a ellos, corregirlos, eliminarlos o llevártelos a otro lugar. Como Lampas no recolecta ningún dato personal, no hay nada que podamos consultar, corregir ni eliminar. Tus derechos y cómo ejercerlos se explican en el **[Centro de Derechos](https://khassinx.com/legal/your-rights/)** de KHASSINX, que cubre la UE/EEE, el Reino Unido, España, California, otros estados de EE. UU. y el resto del mundo.
+Según dónde vivas, puedes tener derechos sobre tus datos personales: acceder a ellos, corregirlos, eliminarlos o llevártelos a otro lugar. Como Lampas no recolecta ningún dato personal, no hay nada que podamos consultar, corregir ni eliminar. Tus derechos y cómo ejercerlos se explican en el **[Centro de derechos](https://khassinx.com/es/legal/your-rights/)** de KHASSINX, que cubre la UE/EEE, el Reino Unido, España, California, otros estados de EE. UU. y el resto del mundo.
 
 ## Este sitio web
 
-Este sitio es estático. No usa cookies propias, no corre ningún tipo de analytics ni tracking, no incrusta scripts ni píxeles de terceros, y no tiene formularios. No rastreamos a nadie, así que no hay nada que una señal "Do Not Track" pueda apagar, y ningún tercero está autorizado a recolectar información sobre tu actividad en otros sitios a través de este sitio web. El sitio lo sirve GitHub Pages, con DNS y entrega a cargo de Cloudflare; como cualquier host web, esos proveedores procesan datos técnicos estándar de las solicitudes (como tu dirección IP) para servir y proteger el sitio, como empresas independientes bajo sus propias políticas de privacidad. Nosotros no recibimos, guardamos ni usamos esos datos.
+Este sitio es estático. No usa cookies propias, no ejecuta ningún tipo de analítica ni rastreo, no incrusta scripts ni píxeles de terceros, y no tiene formularios. No rastreamos a nadie, así que no hay nada que una señal "Do Not Track" pueda apagar, y ningún tercero está autorizado a recolectar información sobre tu actividad en otros sitios a través de este sitio web. El sitio lo sirve GitHub Pages, con DNS y entrega a cargo de Cloudflare; como cualquier host web, esos proveedores procesan datos técnicos estándar de las solicitudes (como tu dirección IP) para servir y proteger el sitio, como empresas independientes bajo sus propias políticas de privacidad. Nosotros no recibimos, guardamos ni usamos esos datos.
 
 ## Los emails que nos envías
 
-Si nos escribes, recibimos tu dirección de email y tu mensaje. Los usamos solo para responderte y arreglar lo que reportaste — sin listas, sin marketing, sin compartirlos. La correspondencia de soporte se conserva solo el tiempo necesario para ayudarte y para nuestras obligaciones legales, y puedes pedirnos borrarla en cualquier momento en [`legal@khassinx.com`](mailto:legal@khassinx.com).
+Si nos escribes, recibimos tu dirección de email y tu mensaje. Los usamos solo para responderte y arreglar lo que reportaste: sin listas, sin marketing, sin compartirlos. La correspondencia de soporte se conserva solo el tiempo necesario para ayudarte y para nuestras obligaciones legales, y puedes pedirnos borrarla en cualquier momento en [`legal@khassinx.com`](mailto:legal@khassinx.com).
 
 ## Contacto
 

@@ -1,6 +1,7 @@
 ---
 layout: prose
-title: Lampas — Terms of Use
+title: Terms of Use
+description: "The terms for using Lampas, a free Bible reader for iPhone, iPad and Mac by KHASSINX LLC."
 permalink: /legal/terms/
 lang: en
 canonical_en: /legal/terms/
@@ -10,8 +11,6 @@ redirect_from:
   - /terms/
 ---
 
-# Terms of Use
-
 **Effective date: 2026-06-05**
 
 These are the terms for using **Lampas**, a Bible reader app for Apple platforms, operated and published by **KHASSINX LLC, a Florida limited liability company** ("we", "us"), under the brand KHASSINX.
@@ -20,7 +19,7 @@ By installing or using Lampas, you agree to these terms. If you do not agree, do
 
 ## The app
 
-Lampas is an iOS and iPadOS application for reading the Bible. It presents freely licensed editions of the text (public domain, CC0, or Creative Commons Attribution) and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
+Lampas is an iOS, iPadOS, and macOS application for reading the Bible. It presents freely licensed editions of the text (public domain, CC0, or Creative Commons Attribution) and includes an on-device, non-generative concordance that surfaces related passages. **Lampas does not interpret, paraphrase, summarize, or generate scripture.** It ranks and shows the text verbatim; it does not author commentary.
 
 The app is distributed exclusively through the App Store. Apple's standard end-user license agreement (the "Licensed Application End User License Agreement") also applies to your use of Lampas; in case of conflict between these terms and Apple's EULA, Apple's EULA prevails for matters within its scope.
 
@@ -37,11 +36,11 @@ You may not:
 
 ## Pricing
 
-Lampas is offered **pro bono — free of charge.** There is no purchase required, no subscription, and no advertising.
+Lampas is offered **pro bono: free of charge.** There is no purchase required, no subscription, and no advertising.
 
 ## The scripture text
 
-The scripture text in Lampas comes from **freely licensed editions** — public domain, CC0, or Creative Commons Attribution — presented verbatim, with attribution per edition. We make no claim of ownership over these editions. The specific edition shown is identified within the app.
+The scripture text in Lampas comes from **freely licensed editions** (public domain, CC0, or Creative Commons Attribution), presented verbatim, with attribution per edition. We make no claim of ownership over these editions. The specific edition shown is identified within the app.
 
 Lampas presents the canon in a tradition-aware manner and does not harmonize divergent versions or reconcile differences between traditions. The handling of the divine name, the ordering of books, and other editorial matters follow the edition as published.
 
@@ -77,7 +76,7 @@ If we change these terms, the new version replaces the old at this URL. Material
 
 ## Availability and unofficial installs
 
-Lampas is distributed exclusively through the App Store, and only in the territories where we choose to offer it. If you obtain, install, or use the app through any other channel — including sideloading, jailbroken devices, or circumventing App Store security or regional restrictions — that use is unauthorized and unsupported: we are not responsible for it, we provide no warranty or support for it, and complying with the laws that apply to you is solely your responsibility.
+Lampas is distributed exclusively through the App Store, and only in the territories where we choose to offer it. If you obtain, install, or use the app through any other channel (including sideloading, jailbroken devices, or circumventing App Store security or regional restrictions), that use is unauthorized and unsupported: we are not responsible for it, we provide no warranty or support for it, and complying with the laws that apply to you is solely your responsibility.
 
 ## Indemnification
 
