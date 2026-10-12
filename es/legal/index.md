@@ -42,10 +42,10 @@ El texto sagrado que presenta Lampas se muestra tal cual, a partir de **edicione
 - **Traducción al inglés**: Berean Standard Bible (CC0, berean.bible)
 - **Traducción al español**: Reina-Valera 1909
 - **Traducción al portugués**: Bíblia Portuguesa Mundial (Dominio público; borrador en revisión)
-- **Traducción al alemán**: Lutherbibel 1912 (Public Domain)
-- **Traducción al italiano**: Riveduta Bibbia 1927 (Public Domain)
-- **Traducción al chino**: Chinese Union Version, 1919 (Public Domain)
-- **Traducción al ruso**: Синодальный перевод (Holy Synod, 1876; Public Domain)
+- **Traducción al alemán**: Lutherbibel 1912 (Dominio público)
+- **Traducción al italiano**: Riveduta Bibbia 1927 (Dominio público)
+- **Traducción al chino**: Chinese Union Version, 1919 (Dominio público)
+- **Traducción al ruso**: Синодальный перевод (Holy Synod, 1876; Dominio público)
 - **Deuterocanónicos (inglés)**: World English Bible (British Edition) with Deuterocanon (Dominio público)
 - **Deuterocanónicos (español)**: Santa Biblia Libre para el Mundo (Dominio público; borrador en revisión)
 
