@@ -1,8 +1,8 @@
 title: Lampas
 short_name: Lampas
 app_category: Reference
-description: "A reverent Bible reader with an on-device, non-generative concordance: it surfaces connections, never interprets. Freely licensed text, original and translation side by side. Privacy-first, for iPhone and iPad."
-description_es: "Un lector de la Biblia reverente, con una concordancia en el dispositivo y no generativa: muestra conexiones, nunca interpreta. Texto de licencia libre, original y traducción lado a lado. Privado por diseño, para iPhone y iPad."
+description: "Lampas. A Bible reader. Coming to the App Store."
+description_es: "Lampas. Un lector de la Biblia. Pronto en el App Store."
 url: https://lampas.khassinx.com
 lang: en
 
@@ -20,8 +20,8 @@ apple_touch_icon: /assets/favicons/apple-touch-icon.png
 og_site_name: Lampas
 og_image: /assets/og/og-image.png
 og_image_es: /assets/og/og-image-es.png
-og_image_alt: "Lampas: the Bible, by lamplight."
-og_image_alt_es: "Lampas: la Biblia, a la luz de la lámpara."
+og_image_alt: "Lampas. A Bible reader. Coming to the App Store."
+og_image_alt_es: "Lampas. Un lector de la Biblia. Pronto en el App Store."
 og_image_width: 1200
 og_image_height: 630
 twitter_card: summary_large_image
